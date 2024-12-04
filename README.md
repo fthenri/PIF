@@ -40,5 +40,5 @@ Se precisar de ajuda ou tiver dúvidas, sinta-se à vontade para entrar em conta
 
 - *Email*: hft@cesar.school
 - *Slack*: Henrique Figueiredo Tefile
-- 
+  
 Me siga para mais conteúdos e atualizações! 🚀
