@@ -1,6 +1,6 @@
-# Programação Imperativa e Funcional (PIF)
+<img src="https://github.com/user-attachments/assets/b9ddfead-1665-4e75-9f8a-525a015d1daf" width="960" height="460">
 
-![study](https://github.com/user-attachments/assets/b9ddfead-1665-4e75-9f8a-525a015d1daf)
+# Programação Imperativa e Funcional (PIF)
 
 Bem-vindo ao repositório de resumos e exercícios da disciplina Programação Imperativa e Funcional (PIF), focada no aprendizado da linguagem C. Este material foi pensado especialmente para alunos que estão saindo do primeiro período (Python) e iniciando o segundo período, recomeçando do zero com a programação imperativa.
 
