@@ -8,7 +8,7 @@ Bem-vindo ao repositório de resumos e exercícios da disciplina Programação I
 
 Os conteúdos estão organizados em diretórios, cada um representando uma aula específica, como por exemplo:
 
-- ```1 - Configurando ambiente de trabalho```
+- ```1 - Configurando VSCode```
 - ```2 - Introdução ao C```
 - ```3 - Controle de fluxo```
 
