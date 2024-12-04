@@ -24,7 +24,7 @@ Aqui estão algumas dicas para navegar pelo conteúdo:
 
 ## Requisitos Básicos
 
-Antes de começar, certifique-se de configurar o ambiente de desenvolvimento. Detalhes completos estão no diretório ```1 - Configurando ambiente de trabalho```, mas aqui vai um resumo do que você precisará:
+Antes de começar, certifique-se de configurar o ambiente de desenvolvimento. Detalhes completos estão no diretório ```1 - Configurando VSCode```, mas aqui vai um resumo do que você precisará:
 
 - VSCode (com extensões como Code Runner)
 - Compilador C (e.g., GCC ou equivalente)
