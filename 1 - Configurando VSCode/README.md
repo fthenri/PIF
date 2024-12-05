@@ -15,7 +15,7 @@ se você prefere um passo a passo em vídeo e mais detalhado recomendo este: htt
 <summary><h2>Windows</h2></summary>
 
   <details>
-  <summary><h3>Instalar MinGW</h3></summary>
+  <summary><h4>Instalar MinGW</h4></summary>
 
   Esse passo é importante aos que usam Windows O.S. para programar ja que não contem GCC nativo no sistema
 
@@ -53,9 +53,36 @@ se você prefere um passo a passo em vídeo e mais detalhado recomendo este: htt
 
   ![image](https://github.com/user-attachments/assets/3d840286-7d90-4a59-b7b1-eb2509baa220)
 
-  ##### 
+  ##### Clique em ```Variáveis de Ambiente```
+
+  ![image](https://github.com/user-attachments/assets/531e95e7-7a4c-42e6-a084-1d104276b96e)
+
+  ##### Clique duas vezes em ```PATH```
+
+  ![image](https://github.com/user-attachments/assets/d98d6bba-b3bc-4b82-b458-0f3253ee188e)
+
+  ##### Clique em ```Novo```
+
+  ![image](https://github.com/user-attachments/assets/9a3e0e00-583d-4891-acee-6ba91c996717)
+
+  ##### Adicione esse caminho: ```C:\MinGW\bin``` e confirme
+
+  ![image](https://github.com/user-attachments/assets/68a8c6a8-0e67-494e-8174-3b9084b98000)
+  
+  </details>
+
+  <details>
+  <summary><h4>Instalar Extensões no vs code</h4></summary>
+
+  - ```C/C++``` da Microsoft
+  - ```C/C++ Compile Run``` de danielpinto8zz6
+
+  ![image](https://github.com/user-attachments/assets/628ebda2-a669-4bae-bf2f-78b7c4a4147b)
+
 
   </details>
+
+  
 
 </details>
 
