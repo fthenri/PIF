@@ -15,7 +15,7 @@ se você prefere um passo a passo em vídeo e mais detalhado recomendo este: htt
 <summary><h2>Windows</h2></summary>
 
   <details>
-  <summary><h4>Instalar MinGW</h4></summary>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<h4>Instalar MinGW</h4></summary>
 
   Esse passo é importante aos que usam Windows O.S. para programar ja que não contem GCC nativo no sistema
 
@@ -72,7 +72,7 @@ se você prefere um passo a passo em vídeo e mais detalhado recomendo este: htt
   </details>
 
   <details>
-  <summary><h4>Instalar Extensões no vs code</h4></summary>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<h4>Instalar Extensões no vs code</h4></summary>
 
   - ```C/C++``` da Microsoft
   - ```C/C++ Compile Run``` de danielpinto8zz6
@@ -88,7 +88,7 @@ se você prefere um passo a passo em vídeo e mais detalhado recomendo este: htt
 <summary><h2>Linux/MacOS</h2></summary>
 
   <details>
-  <summary><h4>Instalar Extensões no vs code</h4></summary>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<h4>Instalar Extensões no vs code</h4></summary>
 
   - ```C/C++``` da Microsoft
   - ```C/C++ Compile Run``` de danielpinto8zz6
