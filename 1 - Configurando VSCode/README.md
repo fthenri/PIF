@@ -82,7 +82,21 @@ se você prefere um passo a passo em vídeo e mais detalhado recomendo este: htt
 
   </details>
 
-  
+</details>
+
+<details>
+<summary><h2>Linux/MacOS</h2></summary>
+
+  <details>
+  <summary><h4>Instalar Extensões no vs code</h4></summary>
+
+  - ```C/C++``` da Microsoft
+  - ```C/C++ Compile Run``` de danielpinto8zz6
+
+  ![image](https://github.com/user-attachments/assets/628ebda2-a669-4bae-bf2f-78b7c4a4147b)
+
+
+  </details>
 
 </details>
 
