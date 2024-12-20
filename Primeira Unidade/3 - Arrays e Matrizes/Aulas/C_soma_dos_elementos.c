@@ -6,7 +6,7 @@ int main(){
         soma += arr[i];
     }
 
-    printf("%d", &soma);
+    printf("%d", soma);
 
     return 0;
 }
