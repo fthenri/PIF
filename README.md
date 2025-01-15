@@ -9,8 +9,8 @@ Bem-vindo ao repositório de resumos e exercícios da disciplina Programação I
 Os conteúdos estão organizados em diretórios, cada um representando uma aula específica, como por exemplo:
 
 - ```1 - Configurando VSCode```
-- ```2 - Introdução ao C```
-- ```3 - Controle de fluxo```
+- ```2 - Variáveis, Decisão e Repetição```
+- ```3 - Arrays e Matrizes```
 
 Siga a ordem das pastas para acompanhar o progresso das aulas e dos tópicos.
 
@@ -39,6 +39,6 @@ Este repositório está licenciado sob a licença MIT. Sinta-se à vontade para 
 Se precisar de ajuda ou tiver dúvidas, sinta-se à vontade para entrar em contato:
 
 - *Email*: hft@cesar.school
-- *Slack*: Henrique Figueiredo Tefile
+- *Slack*: Henrique Prefeito
   
 Me siga para mais conteúdos e atualizações! 🚀
